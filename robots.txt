@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bohtheiph.andrewfechner.com/sitemap.xml
